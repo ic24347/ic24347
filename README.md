@@ -1,9 +1,4 @@
 ## Hi there 👋
 
-<!--
-**ic24347/ic24347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Masters degree in Computer Science
-- 🌱 I’m currently learning Data Science
+- I’m currently working on a Masters degree in Computer Science 👩🏻‍💻
+- I’m currently learning Data Science 📈
